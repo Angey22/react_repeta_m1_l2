@@ -1,10 +1,11 @@
 # По лекции Репеты. Модуль 1, лекция - 2: "Компоненты и коллекции. Стилизация - теория"
 
-[Видео лекции - "Компоненты и коллекции. Стилизация - теория":](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=0s);
+[Видео лекции - "Компоненты и коллекции. Стилизация - теория":](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=0s)
 
-- [Декомпозиция элементов макета на Реакт компоненты (0:00:40...0:13:50);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=40s);
-- [App.js и правила импорта, описание вспомогательного файла "jsconfig.son" (0:14:10...0:16:30);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=850s);
-- [Компонент "PageTitle" (0:16:35...0:00:00);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=995s);
+- [Декомпозиция элементов макета на Реакт компоненты (0:00:40...0:13:50);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=40s)
+- [App.js и правила импорта, описание вспомогательного файла "jsconfig.son" (0:14:10...0:16:30);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=850s)
+- [Компонент "PageTitle" + Описание борьбы со стандартной ошибкой Реакта - ".env" (0:16:35...0:21:20);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=995s)
+- [Компонент "EventBoard" (0:21:25...0:00:00);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=1285s)
 
 # Дополнительный материал:
 

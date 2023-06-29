@@ -1,3 +1,10 @@
+// Импортируем компонент "PageTitle".
+import { PageTitle } from "./PageTitle/PageTitle";
+
 export const App = () => {
-    return <div>App</div>;
+    return (
+        <div>
+            <PageTitle text="24th Core Worlds Coalition Conference" />
+        </div>
+    );
 };

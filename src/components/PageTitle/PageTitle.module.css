@@ -1,0 +1,10 @@
+.title {
+  margin-top: 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* Пустой, не используемый класс для иллюстрации свойств импортируемой переменной-объекта со стилями */
+.title-test {
+  background-color: bisque;
+}
