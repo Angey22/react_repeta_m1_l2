@@ -18,6 +18,9 @@ import {
 //! Пример использования концепции "реэкспорта" для импорта нескольких функций из разных файлов одной строкой.
 import { formatEventStart, formatEventDuration } from 'utils';
 
+// Импорт вспомогательного объекта с набором размеров иконок из файла "iconSize.js".
+import { iconSize } from 'constans';
+
 // Импорт стилей данного модуля из файла "EventBoard.module.css".
 import css from './Event.module.css';
 
@@ -30,22 +33,22 @@ export const Event = ({ name, location, speaker, type, start, end }) => {
     <div className={css.event}>
         <h2 className={css.title}>{name}</h2>
         <p className={css.info}>
-            <FaMapMarkerAlt className={css.icon} size={16} />
+            <FaMapMarkerAlt className={css.icon} size={iconSize.sm} />
             {location}
         </p>
         <p className={css.info}>
-            <FaUserAlt className={css.icon} size={16} />
+            <FaUserAlt className={css.icon} size={iconSize.sm} />
             {speaker}
         </p>
         <p className={css.info}>
-            <FaCalendarAlt className={css.icon} size={16} />
+            <FaCalendarAlt className={css.icon} size={iconSize.sm} />
             {formattedStart}
         </p>
         <p className={css.info}>
-            <FaClock className={css.icon} size={16} />
+            <FaClock className={css.icon} size={iconSize.sm} />
             {duration}
         </p>
-        {/* <span class="chip free|paid|vip">Event type</span> */}
+        <span className={`${css.chip} ${css[type]}`}>{type}</span>
     </div>
     )
 };
@@ -56,8 +59,8 @@ Event.propTypes = {
     location: PropTypes.string.isRequired,
     speaker: PropTypes.string.isRequired,
     type: PropTypes.string.isRequired,
-    time: {
+    time: PropTypes.exact({
         start: PropTypes.string.isRequired,
         end: PropTypes.string.isRequired,
-    }
+    })
 }

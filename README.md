@@ -9,10 +9,12 @@
 - [Пробный "рендер" коллекции карточек (0:29:45...0:31:25);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=1785s)
 - [Создаем компонент "Event" + Использование библиотеки - "react-icons" (0:31:30...0:52:05);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=1890s)
 
-- [Как добавить свои SVG иконки в React приложение? (доп. материал НЕ из лекции)](https://www.youtube.com/watch?v=pRpaDlqhiT8)
+- [Как добавить свои SVG иконки в React приложение? (доп. материал НЕ из лекции);](https://www.youtube.com/watch?v=pRpaDlqhiT8)
 
 - [Продолжаем создавать компонент "Event", работаем с датой и временем, используем библиотеку - "date-fns" + Концепция реэкспорта функций (0:52:10...1:03:30);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=3130s)
-- [XXX (1:03:35...0:00:00);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=3815s)
+- [Настройка разноцветных "плашек" карточек - free/paid/vip (1:03:35...1:09:00);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=3815s)
+- [Настройка автоматического размеров иконок + Использование метода "Object.freeze({})" (1:09:05...1:14:50);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=4145s)
+- [Ответы на вопросы по пройденному материалу лекции (1:14:55...1:24:27);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=4495s)
 
 # Дополнительный материал:
 
