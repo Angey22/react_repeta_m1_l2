@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client';
 
 // Импорт "локальных" элементов.
 import './index.css';
-import { App } from 'components/App';
+import { App } from 'components/App/App';
 
 //! Упрощенная запись начальной точки "рендера", которую приводит Репета, но она дает ошибку и не рендерится.
 // ReactDOM.render(

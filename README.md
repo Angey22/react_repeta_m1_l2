@@ -16,11 +16,25 @@
 - [Настройка автоматического размеров иконок + Использование метода "Object.freeze({})" (1:09:05...1:14:50);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=4145s)
 - [Ответы на вопросы по пройденному материалу лекции (1:14:55...1:24:27);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=4495s)
 
+# По лекции Репеты. Модуль 1, лекция - 3: "Emotion (стилизация JS)"
+
+[Видео лекции - "Emotion (стилизация JS)":](https://www.youtube.com/watch?v=S9-zFqxeEr8&t=0s)
+
+- [Основы динамического CSS - теория + Установка пакетов "@emotion/styled" и "@emotion/react" (0:00:05...0:04:50);](https://www.youtube.com/watch?v=S9-zFqxeEr8&t=5s)
+- [Стилизуем компонент "App" с помощью - "Emotion" (0:04:55...0:09:00);](https://www.youtube.com/watch?v=S9-zFqxeEr8&t=295s)
+- [Стилизуем компонент "PageTitle" с помощью - "Emotion" (0:09:15...0:11:35);](https://www.youtube.com/watch?v=S9-zFqxeEr8&t=555s)
+- [Стилизуем компонент "EventBoard" с помощью - "Emotion" (0:11:35...0:13:15);](https://www.youtube.com/watch?v=S9-zFqxeEr8&t=695s)
+- [Стилизуем компонент "Event" с помощью - "Emotion", настройка динамического изменения стилей (0:13:20...0:33:15);](https://www.youtube.com/watch?v=S9-zFqxeEr8&t=800s)
+- [Как создать "темизацию" (изменение темы) с помощью - "Emotion" (0:33:20...0:41:35);](https://www.youtube.com/watch?v=S9-zFqxeEr8&t=2000s)
+- ["spacing" и ее динамическое изменение с помощью - "Emotion" (0:41:40...0:48:45);](https://www.youtube.com/watch?v=S9-zFqxeEr8&t=2500s)
+- [Ответы на вопросы (0:48:50...0:54:44);](https://www.youtube.com/watch?v=S9-zFqxeEr8&t=2930s)
+
 # Дополнительный материал:
 
 - [react-icons](https://react-icons.github.io/react-icons/)
 - [date-fns](https://date-fns.org/)
 - [prop-types](https://www.npmjs.com/package/prop-types)
+- [Emotion](https://emotion.sh/docs/introduction)
 
 # Вспомогательный материал:
 

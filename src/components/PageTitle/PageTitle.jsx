@@ -2,11 +2,18 @@
 import PropTypes from "prop-types";
 
 // Импорт стилей данного модуля из файла "PageTitle.module.css".
-import css from './PageTitle.module.css';
+// import css from './PageTitle.module.css';
+
+// Импорт компонента со стилями из файла "PageTitle.styled.js".
+import { Title } from "./PageTitle.styled";
 
 // Код функции-компонента.
 export const PageTitle = ({ text }) => {
-    return <h1 className={css.title}>{text}</h1>;
+    //! Используем компонент со стилями.
+    return <Title>{text}</Title>;
+
+    //! Используем модульный CSS.
+    // return <h1 className={css.title}>{text}</h1>;
 };
 
 // Прописываем "PropTypes".
