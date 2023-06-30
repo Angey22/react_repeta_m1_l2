@@ -1,10 +1,17 @@
 // Импортируем компонент "PageTitle".
 import { PageTitle } from "./PageTitle/PageTitle";
 
+// Импортируем компонент "EventBoard".
+import { EventBoard } from "./EventBoard/EventBoard";
+
+// Импортируем в переменную данные из файла "upcoming-events.json".
+import upcomingEvents from '../upcoming-events.json'
+
 export const App = () => {
     return (
-        <div>
+        <>
             <PageTitle text="24th Core Worlds Coalition Conference" />
-        </div>
+            <EventBoard events={upcomingEvents} />  
+        </>
     );
 };

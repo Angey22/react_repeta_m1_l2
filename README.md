@@ -4,8 +4,15 @@
 
 - [Декомпозиция элементов макета на Реакт компоненты (0:00:40...0:13:50);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=40s)
 - [App.js и правила импорта, описание вспомогательного файла "jsconfig.son" (0:14:10...0:16:30);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=850s)
-- [Компонент "PageTitle" + Описание борьбы со стандартной ошибкой Реакта - ".env" (0:16:35...0:21:20);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=995s)
-- [Компонент "EventBoard" (0:21:25...0:00:00);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=1285s)
+- [Создаем компонент "PageTitle" + Описание борьбы со стандартной ошибкой Реакта - ".env" (0:16:35...0:21:20);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=995s)
+- [Создаем компонент "EventBoard" + Прописываем "PropTypes" (0:21:25...0:29:40);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=1285s)
+- [Пробный "рендер" коллекции карточек (0:29:45...0:31:25);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=1785s)
+- [Создаем компонент "Event" + Использование библиотеки - "react-icons" (0:31:30...0:52:05);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=1890s)
+
+- [Как добавить свои SVG иконки в React приложение? (доп. материал НЕ из лекции)](https://www.youtube.com/watch?v=pRpaDlqhiT8)
+
+- [Продолжаем создавать компонент "Event", работаем с датой и временем, используем библиотеку - "date-fns" + Концепция реэкспорта функций (0:52:10...1:03:30);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=3130s)
+- [XXX (1:03:35...0:00:00);](https://www.youtube.com/watch?v=XRs3v6pNOH8&t=3815s)
 
 # Дополнительный материал:
 
